@@ -1,6 +1,6 @@
 Hi!
 
-I have programming with Java a couple years, 
+I have been programming with Java a couple years, 
 mostly using the Spigot and Paper apis.
 I am interested in learning web development.
 
